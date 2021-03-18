@@ -1,0 +1,5 @@
+terraform.tfstate*
+.terraform/*
+crash.log
+boundary_token.txt
+s
