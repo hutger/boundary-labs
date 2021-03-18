@@ -8,7 +8,7 @@ As a very novice tool, the practical documentation, including use cases, are sti
 
 If you happen to get here, I'm assuming that you already know what Boundary is and what is is for. In case you don't, you can get to know Boundary by checking the [Boundary Project](https://www.boundaryproject.io/) site. In a nutshell Boundary provides a programmatic and code-based approach for remote access management.
 
-![image-20210318075747916](/Users/lucasjr/temp/github/boundary/boundary-labs/images/image-20210318075747916.png)
+![image-20210318075747916](images/image-20210318075747916.png)
 
 Source: [Boundary Project](https://www.boundaryproject.io/) 
 
@@ -18,7 +18,7 @@ Source: [Boundary Project](https://www.boundaryproject.io/)
 
 The fictional scenario for this guide can be found described right below:
 
-![image-20210318075826997](/Users/lucasjr/temp/github/boundary/boundary-labs/images/image-20210318075826997.png)
+![image-20210318075826997](images/image-20210318075826997.png)
 
 
 
@@ -143,7 +143,7 @@ For an CLI walk-through, refer to a follow-up to this guide.
 
 #### WebUI:
 
-![image](/Users/lucasjr/temp/github/boundary/boundary-labs/images/111313112-3ccd4500-8660-11eb-8e4f-bf87af3c06eb.png)
+![image](images/111313112-3ccd4500-8660-11eb-8e4f-bf87af3c06eb.png)
 
 
 
@@ -153,7 +153,7 @@ After the App is installed, on the first opening the users will be requested to 
 
 Once authenticated, the users will be presented to the available targets. For connecting to one of the targets, just click connect and take note of the port number informed and move to a terminal or open a RDP client app.
 
-![image](/Users/lucasjr/temp/github/boundary/boundary-labs/images/111515113-b6456000-8752-11eb-941a-5a035af78da2.png)
+![image](images/111515113-b6456000-8752-11eb-941a-5a035af78da2.png)
 
 
 
