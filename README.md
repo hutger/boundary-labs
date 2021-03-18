@@ -147,7 +147,7 @@ Scope information:
 
 
 
-For an CLI walk-through, refer to a follow-up to this guide.
+For an CLI walk-through, refer to a follow-up to this guide. **SOON TO COME**
 
 
 
